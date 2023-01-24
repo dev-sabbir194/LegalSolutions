@@ -57,7 +57,9 @@
     align-self: center;
 }
 
-
+.banner-img{
+  background-repeat: no-repeat;
+}
 
 
 
