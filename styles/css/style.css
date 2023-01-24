@@ -45,9 +45,6 @@
     align-self: center;
 }
 
-.banner-img{
-  background-repeat: no-repeat;
-}
 
 .carousel-user-img{
   height: 100px;
@@ -60,8 +57,11 @@
 
 
 
-
-
+@media (max-width: 576px){
+  .carousel-caption {
+    display: block;
+}
+}
 
 
 
