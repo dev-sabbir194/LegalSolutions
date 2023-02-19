@@ -35,6 +35,11 @@
 }
 
 
+@media (max-width: 576px){
+  .carousel-caption {
+    display: block;
+}
+}
 
 .more-icone{
     width: 40px;
@@ -57,11 +62,6 @@
 
 
 
-@media (max-width: 576px){
-  .carousel-caption {
-    display: block;
-}
-}
 
 
 
